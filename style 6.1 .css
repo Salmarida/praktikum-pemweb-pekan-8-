@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+#container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.box {
+    width: 17.7%;
+    height: 5%;
+    margin: 10px;
+    padding: 2px;
+    border: 2px solid cornflowerblue;
+    border-radius: 10px;
+}
+img {
+    width: 100%;
+}
+.box1 {
+    width: 31%;
+}
+.box2 {
+    width: 31%;
+}
+.box3 {
+    width: 31%;
+}
